@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ActerioCodingChallengeApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ActerioCodingChallengeApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ActerioCodingChallengeApplication.class, args);
+    }
 
 }
